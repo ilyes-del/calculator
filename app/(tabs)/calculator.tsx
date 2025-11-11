@@ -57,7 +57,7 @@ export default function CalculatorScreen() {
       { label: '7', value: '7' },
       { label: '8', value: '8' },
       { label: '9', value: '9' },
-      { label: 'X', value: '*' },
+      { label: '×', value: '*' },
       { label: 'ln', value: 'log(' },
     ],
     [
